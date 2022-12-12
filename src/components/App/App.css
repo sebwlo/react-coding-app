@@ -1,15 +1,15 @@
 main {
-  width: 1280px;
+  width: 80rem;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 120px;
+  margin-top: 7.5rem;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
 }
 
-@media screen and (max-width: 920px) {
+@media screen and (max-width: 58rem) {
   main {
     flex-direction: column;
   }
