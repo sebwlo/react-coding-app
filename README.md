@@ -1,6 +1,8 @@
 ## Available Scripts
 
-First, in the project directory, you need to run `npm install'
+First, in the project directory, you need to run:
+
+### `npm install`
 
 Then you can run:
 
